@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# data files
+*.csv
+*.xlsx
+*.h5
+*.parquet
+
+#logs and temporary files
+logs/
+*.log
+*.tmp
+
+# environment configuration
+.env
