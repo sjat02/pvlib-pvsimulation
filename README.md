@@ -63,9 +63,7 @@ pip install numpy pandas pvlib matplotlib
 Clone the repository and open the Jupyter notebook to explore the data and run the simulations.
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
-jupyter notebook
+git clone https://github.com/sjat02/pvlib-pvsimulation.git
 ```
 
 ## Results
